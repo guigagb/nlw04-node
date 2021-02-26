@@ -1,0 +1,3 @@
+class SendMailService {}
+
+export { SendMailService };
